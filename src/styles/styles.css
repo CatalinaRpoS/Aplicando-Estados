@@ -14,11 +14,11 @@ h1{
     font-family: 'Sansita Swashed', cursive;
 }
 
-a, .card-title, h5{
+.card-title, h5{
     font-family: 'Lemonada', cursive;
 }
 
-p, li{
+p, li, .alert{
     font-family: 'Quicksand', sans-serif;
     font-size: calc(1em + 0.4vh);
 }
@@ -40,5 +40,15 @@ p, li{
     border: #7D8FDE;
     font-family: 'Quicksand', sans-serif;
     font-size: calc(1em + 0.4vh);
+}
+
+.text{
+    color: #212529;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.text:hover{
+    color: #212529;
+    text-decoration: none;
 }
 

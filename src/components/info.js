@@ -58,15 +58,7 @@ class Info extends React.Component{
                     </div>
                   </div>
                 </div>
-              </div>)}  
-              <br/>
-              <h5>Créditos:</h5> 
-              <ul>
-                <li>https://iconos8.es/icons/</li>
-                <li>https://www.astromia.com/universo/clasestrellas.htm</li>
-                <li>http://cienoticias.blogspot.com/2011/10/como-se-clasifican-las-estrellas.html</li>
-                <li>https://es.wikipedia.org/wiki/Naos_(estrella)</li>
-              </ul>         
+              </div>)} 
               </div>
             </div>
           </div>
