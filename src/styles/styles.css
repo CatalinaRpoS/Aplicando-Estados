@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.App{
+    background-color: #B9C2EC;
+}
+
+nav, footer{
+    background-color: #7D8FDE;
+}
+
+h1{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+a, .card-title, h5{
+    font-family: 'Lemonada', cursive;
+}
+
+p, li{
+    font-family: 'Quicksand', sans-serif;
+    font-size: calc(1em + 0.4vh);
+}
+
+.card-color{
+    background-color: #A0ACE3;
+}
+
+#but1{
+    margin-right: 2vh;
+    background-color: #7D8FDE;
+    border: #7D8FDE;
+    font-family: 'Quicksand', sans-serif;
+    font-size: calc(1em + 0.4vh);
+}
+
+#but2{
+    background-color: #7D8FDE;
+    border: #7D8FDE;
+    font-family: 'Quicksand', sans-serif;
+    font-size: calc(1em + 0.4vh);
+}
+

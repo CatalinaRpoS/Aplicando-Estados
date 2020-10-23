@@ -1,0 +1,44 @@
+[
+    {
+        "clase": "O",
+        "color": "Azul",
+        "temperatura": "25.000 - 50.000 C°",
+        "estrella": "Naos"
+    },
+    {
+        "clase": "B",
+        "color": "Blanco-azul",
+        "temperatura": "11.000 - 25.000 C°",
+        "estrella": "Spica"
+    },
+    {
+        "clase": "A",
+        "color": "Blanco",
+        "temperatura": "7.500 - 11.000 C°",
+        "estrella": "Vega"
+    },
+    {
+        "clase": "F",
+        "color": "Blanco-amarillo",
+        "temperatura": "6.000 - 7.500 C°",
+        "estrella": "Mirfak"
+    },
+    {
+        "clase": "G",
+        "color": "Amarillo",
+        "temperatura": "5.000 - 6.000 C°",
+        "estrella": "El Sol"
+    },
+    {
+        "clase": "K",
+        "color": "Naranjado",
+        "temperatura": "3.500 - 5.000 C°",
+        "estrella": "Aldebarán"
+    },
+    {
+        "clase": "M",
+        "color": "Rojo",
+        "temperatura": "3.500 y menos C°",
+        "estrella": "Betelgeuse"
+    }
+]

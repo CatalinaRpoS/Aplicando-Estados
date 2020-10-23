@@ -1,0 +1,31 @@
+[
+    {
+        "clase": "Clase O:",
+        "descripcion": "Estas estrellas, que son muy calientes, poseen líneas del helio, el oxígeno, el nitrógeno y el hidrógeno. En este caso, no importa si las líneas del helio y el hidrógeno son brillantes u oscuras."
+    },
+    {
+        "clase": "Clase B:",
+        "descripcion": "Estas estrellas alcanzan la máxima intensidad de sus líneas de helio en la subdivisión B2, y a medida que avanzan las subdivisiones se van haciendo más pálidas. Ocurre todo lo contrario con las líneas de hidrógeno."
+    },
+    {
+        "clase": "Clase A:",
+        "descripcion": "En el espectro de estas estrellas predominan las líneas de absorción del hidrógeno, motivo por el que se conocen como estrellas de hidrógeno."
+    },
+    {
+        "clase": "Clase F:",
+        "descripcion": "En el espectro de estas estrellas destacan las líneas H y K del calcio junto con las del hidrógeno."
+    },
+    {
+        "clase": "Clase G:",
+        "descripcion": "Estas estrellas tienen fuertes líneas H y K del calcio, y sus líneas de hidrógeno no son tan fuertes. También poseen los espectros de muchos elementos metálicos, como el hierro. Por motivos fáciles de deducir, estas estrellas también son conocidas como estrellas de tipo solar"
+    },
+    {
+        "clase": "Clase K:",
+        "descripcion": "Estas estrellas tienen fuertes líneas del calcio, además de las que indican la presencia de elementos metálicos." 
+    },
+    {
+        "clase": "Clase M:",
+        "descripcion": "Los espectros de estas estrellas están dominados por líneas que indican la presencia de óxidos metálicos, especialmente óxido de titanio. En este caso, el final violeta es menos intenso que en las estrellas de clase K."
+    }
+ 
+]
