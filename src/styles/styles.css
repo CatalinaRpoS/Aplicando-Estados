@@ -10,11 +10,11 @@ nav, footer{
     background-color: #7D8FDE;
 }
 
-.card-title, h5, #titulo{
+.card-title, h5{
     font-family: 'Lemonada', cursive;
 }
 
-h1{
+h1, #titulo{
     font-family: 'Sansita Swashed', cursive;
 }
 
